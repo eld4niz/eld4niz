@@ -1,0 +1,5 @@
+- 📖 Stu-dying Bachelor of Science in Engineering Management @Politechnika Poznanska
+- 👀 I’m interested in Virtualization | Cloud Engineering | Cloud Security | Linux internals
+- 🌱 I’m currently learning: MicroVM architecture | Prometheus | Grafana | Google Cloud Platform
+- 🖊️ I’m currently working on Change Detection Dataset Collection with Generative AI methods.
+- 📫 You can reach me though mail: eldanizbabayev@proton.me

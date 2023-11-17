@@ -1,5 +1,5 @@
 - 📖 B.E. Engineering Management @Politechnika Poznanska
-- 👀 I’m interested in Site Reliability Engineering Tools | Performance Monitoring | Linux Internals
+- 👀 I’m interested in Site Reliability Engineering Tools | Performance Monitoring | Event-Based Architecture
 - 🌱 I’m currently learning: Kubernetes | Helm | ArgoCD
 - 🖊️ I’m currently working on Microservice application running on Docker container written in Django and FastAPI
 - 📫 You can reach me though mail: eldanizbabayev@proton.me

@@ -1,5 +1,5 @@
 - 🔭 Research Fellow at PUT Mobile Robots Lab
-- 👨‍💻 Research Topic: Neural Environment Model and Motion Constraints in Robot Motion Planning
+- 👨‍💻 Project Topic: Neural Environment Model and Motion Constraints in Robot Motion Planning
 - ✒️ B.Sc. Engineering Management (Industrial Engineering) - specialized on Robotics
 - 🌱 I’m focused on autonomous navigation, visual SLAM, and 3D computer vision
 - 👯 You can reach me if you are looking for collaboration on the aforementioned topics
